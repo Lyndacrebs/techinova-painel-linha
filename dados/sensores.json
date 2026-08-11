@@ -12,6 +12,12 @@
     "unidade": "F"
   },
   {
+    "codigo": "S-Eve-Gabi",
+    "descricao": "Vibracao do eixo principal",
+    "valor": 68.0,
+    "unidade": "F"
+  },
+  {
     "codigo": "S-103",
     "descricao": "Esteira de saida",
     "valor": 71.6,

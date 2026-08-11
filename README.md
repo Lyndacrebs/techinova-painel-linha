@@ -8,4 +8,4 @@ Abra o arquivo `index.html` no navegador. Nao precisa de servidor web.
 
 ## Identificacao
 
-Evelyn Victoria Araújo dos Santos
+Evelyn Victoria Araújo dos Santos e Gabrielle Aparecida Cascardi Giroldo

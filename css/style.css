@@ -27,3 +27,25 @@ th, td {
 table {
   margin-top: 12px;
 }
+
+
+
+#alertas {
+  padding: 16px;
+}
+
+#alertas h2 {
+  margin-bottom: 8px;
+}
+
+.alerta-critico {
+  font-weight: bold;
+  padding: 8px;
+  margin-bottom: 6px;
+  background: #ffe0e0;
+  border-left: 4px solid #c62828;
+}
+
+.status-critico {
+  font-weight: bold;
+}
